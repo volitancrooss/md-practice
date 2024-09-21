@@ -2,8 +2,9 @@
 ## Esto es Un H2
 ### Esto  es un H3
 
-----------
+___________
 ### Estilos MD
+___________
 *Énfasis* __énfasis__
 ==Texto Subrayado==
 ~~Texto Tachado~~
@@ -11,10 +12,11 @@
 
 H~2~O es un líquido
 2^10^ es 1024
-______
 
+______
 ### Listas MD
 ____
+
 -Lista
 * Lista
 	+ Lista
@@ -28,6 +30,7 @@ ____
 
 _____
 ### Links MD
+____________
 
 Un [link](http://google.com)
 Una imagen: ![Alt](img.jpg)
